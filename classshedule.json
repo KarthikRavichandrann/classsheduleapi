@@ -20,6 +20,148 @@
           "time": "10:00 AM,",
           "day": "monday"
         },
+        {time
+          "subject": "FOC,",
+          "class": "IT,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        }
+      ]
+    }
+    
+    "tuesday": {
+      "classes": [
+        {
+          "subject": "english,",
+          "class": "ece,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        },
+        {
+          "subject": "maths,",
+          "class": "cse,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        },
+        {
+          "subject": "Solid Mechanics,",
+          "class": "mech,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        },
+        {
+          "subject": "FOC,",
+          "class": "IT,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        }
+      ]
+    }
+
+"wednesday": {
+      "classes": [
+        {
+          "subject": "english,",
+          "class": "ece,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        },
+        {
+          "subject": "maths,",
+          "class": "cse,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        },
+        {
+          "subject": "Solid Mechanics,",
+          "class": "mech,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        },
+        {
+          "subject": "FOC,",
+          "class": "IT,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        }
+      ]
+    }
+"thursday": {
+      "classes": [
+        {
+          "subject": "english,",
+          "class": "ece,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        },
+        {
+          "subject": "maths,",
+          "class": "cse,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        },
+        {
+          "subject": "Solid Mechanics,",
+          "class": "mech,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        },
+        {
+          "subject": "FOC,",
+          "class": "IT,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        }
+      ]
+    }
+"friday": {
+      "classes": [
+        {
+          "subject": "english,",
+          "class": "ece,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        },
+        {
+          "subject": "maths,",
+          "class": "cse,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        },
+        {
+          "subject": "Solid Mechanics,",
+          "class": "mech,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        },
+        {
+          "subject": "FOC,",
+          "class": "IT,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        }
+      ]
+    }
+"saturday": {
+      "classes": [
+        {
+          "subject": "english,",
+          "class": "ece,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        },
+        {
+          "subject": "maths,",
+          "class": "cse,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        },
+        {
+          "subject": "Solid Mechanics,",
+          "class": "mech,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        },
         {
           "subject": "FOC,",
           "class": "IT,",
