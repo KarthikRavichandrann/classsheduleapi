@@ -1,0 +1,32 @@
+{
+  "schedule": {
+    "monday": {
+      "classes": [
+        {
+          "subject": "english,",
+          "class": "ece,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        },
+        {
+          "subject": "maths,",
+          "class": "cse,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        },
+        {
+          "subject": "Solid Mechanics,",
+          "class": "mech,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        },
+        {
+          "subject": "FOC,",
+          "class": "IT,",
+          "time": "10:00 AM,",
+          "day": "monday"
+        }
+      ]
+    }
+  }
+}
