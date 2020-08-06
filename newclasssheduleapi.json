@@ -10,7 +10,7 @@
 			"p_endtime": "10:15",
 			"created": "2020-05-23T20:05:36.000Z",
 			"updated": "2020-05-23T20:05:36.000Z"
-		}, null, {
+		}, {
 			"id": 16,
 			"inst_id": "9",
 			"category": "22",
@@ -28,7 +28,7 @@
 			"first_name": "Altaf Alikhan",
 			"subject_id": 7,
 			"subject_name": "English"
-		}, null, null, null, {
+		}, {
 			"id": 18,
 			"inst_id": "9",
 			"category": "22",
@@ -57,7 +57,7 @@
 			"p_endtime": "11:00",
 			"created": "2020-05-23T20:05:36.000Z",
 			"updated": "2020-05-23T20:05:36.000Z"
-		}, null, null, {
+		},{
 			"id": 31,
 			"inst_id": "9",
 			"category": "22",
@@ -86,7 +86,7 @@
 			"p_endtime": "12:00",
 			"created": "2020-05-23T20:05:36.000Z",
 			"updated": "2020-05-23T20:05:36.000Z"
-		}, null, null, null, null, null, null, null]
+		}]
 	}, {
 		"timing": [{
 			"id": 68,
@@ -97,7 +97,7 @@
 			"p_endtime": "12:45",
 			"created": "2020-05-23T20:05:36.000Z",
 			"updated": "2020-05-23T20:05:36.000Z"
-		}, null, {
+		},  {
 			"id": 29,
 			"inst_id": "9",
 			"category": "22",
@@ -126,7 +126,7 @@
 			"p_endtime": "14:15",
 			"created": "2020-05-23T20:05:36.000Z",
 			"updated": "2020-05-23T20:05:36.000Z"
-		}, null, null, null, null, null, null, {
+		}, {
 			"id": 28,
 			"inst_id": "9",
 			"category": "22",
