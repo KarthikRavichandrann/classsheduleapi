@@ -1,0 +1,85 @@
+{
+	"code": 200,
+	"message": [{
+		"id": 1,
+		"inst_id": "9",
+		"short_id": "",
+		"type": "Diploma"
+	}, {
+		"id": 2,
+		"inst_id": "9",
+		"short_id": "",
+		"type": "B.SC N"
+	}, {
+		"id": 8,
+		"inst_id": "9",
+		"short_id": "",
+		"type": "M.SC (N)"
+	}, {
+		"id": 9,
+		"inst_id": "9",
+		"short_id": "",
+		"type": "B.SC (N)"
+	}, {
+		"id": 11,
+		"inst_id": "9",
+		"short_id": "",
+		"type": "KG"
+	}, {
+		"id": 12,
+		"inst_id": "9",
+		"short_id": "",
+		"type": "Diploma"
+	}, {
+		"id": 13,
+		"inst_id": "9",
+		"short_id": "",
+		"type": "Primary"
+	}, {
+		"id": 14,
+		"inst_id": "9",
+		"short_id": "",
+		"type": "Primary"
+	}, {
+		"id": 15,
+		"inst_id": "9",
+		"short_id": "",
+		"type": "Nantha_Testings"
+	}, {
+		"id": 16,
+		"inst_id": "9",
+		"short_id": "academic-cb366066-8ec9-4379-b321-a85929f5e72b",
+		"type": "PGs"
+	}, {
+		"id": 19,
+		"inst_id": "9",
+		"short_id": "academic-e9337780-9d20-11ea-a744-1f5df795425a",
+		"type": "nanthakumar"
+	}, {
+		"id": 22,
+		"inst_id": "9",
+		"short_id": "academic-c48b5c80-9d30-11ea-8f1d-c52692d01737",
+		"type": "Done"
+	}, {
+		"id": 23,
+		"inst_id": "9",
+		"short_id": "academic-84ac0d40-ad92-11ea-8c5b-ff3b7f46e431",
+		"type": "Praveen_kg"
+	}, {
+		"id": 24,
+		"inst_id": "9",
+		"short_id": "academic-c12f10d0-b497-11ea-afd7-4bf76f8b1044",
+		"type": "diploma"
+	}, {
+		"id": 25,
+		"inst_id": "9",
+		"short_id": "academic-01173bf0-b498-11ea-afd7-4bf76f8b1044",
+		"type": "Diploma"
+	}, {
+		"id": 26,
+		"inst_id": "9",
+		"short_id": "academic-af04e0f0-b538-11ea-9ef8-3f2d96282c13",
+		"type": "First Class"
+	}],
+	"type": "success"
+}
