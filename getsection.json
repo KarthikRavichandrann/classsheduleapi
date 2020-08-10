@@ -1,0 +1,45 @@
+{
+	"code": 200,
+	"message": [{
+		"id": 12,
+		"inst_id": "9",
+		"short_id": "",
+		"class_name": "20",
+		"section_name": "I",
+		"associated_staff": null,
+		"student_count": "20",
+		"createdat": "2019-12-16T10:11:51.000Z",
+		"updatedat": "2019-12-16T10:11:51.000Z"
+	}, {
+		"id": 24,
+		"inst_id": "9",
+		"short_id": "section-NaN",
+		"class_name": "20",
+		"section_name": "B",
+		"associated_staff": "48",
+		"student_count": null,
+		"createdat": "2020-05-19T07:43:04.000Z",
+		"updatedat": "2020-05-19T07:43:04.000Z"
+	}, {
+		"id": 25,
+		"inst_id": "9",
+		"short_id": "section-c9d61c00-99a4-11ea-a56a-c5151561504e",
+		"class_name": "20",
+		"section_name": "S",
+		"associated_staff": "54",
+		"student_count": null,
+		"createdat": "2020-05-19T07:46:02.000Z",
+		"updatedat": "2020-05-19T07:46:02.000Z"
+	}, {
+		"id": 26,
+		"inst_id": "9",
+		"short_id": "section-de097730-99a4-11ea-9661-bd71a5e8a852",
+		"class_name": "20",
+		"section_name": "H",
+		"associated_staff": "57",
+		"student_count": null,
+		"createdat": "2020-05-19T07:46:36.000Z",
+		"updatedat": "2020-05-19T07:46:36.000Z"
+	}],
+	"type": "success"
+}
